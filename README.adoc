@@ -1,0 +1,3 @@
+= Playground project for Selenium &amp; Selenide
+
+See how to crawl websites with Selenide &amp; JDK 14+ features: https://blog.sebastian-daschner.com/entries/crawling-websites-selenide-jdk14
